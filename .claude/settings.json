@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "bash",
+            "command": "grep -q \"更新目前狀態\" && printf '{\"hookSpecificOutput\":{\"hookEventName\":\"UserPromptSubmit\",\"additionalContext\":\"⚠️ 偵測到「更新目前狀態」指令。請依 CLAUDE.md 收工/更新 SOP 執行，缺一不可：(1) 彙整本次對話完成的子任務與檔案異動；(2) 更新目前階段子任務清單檔（階段1為 docs/執行提示詞與確認清單.md）的 CheckList、最終確認清單、目前狀態表；(3) 更新 CLAUDE.md 的『專案階段路線圖』狀態定錨；(4) git add 至 commit 至 push（commit 後務必 push，不可只 commit），完成後回報結果。\"}}' || true",
+            "statusMessage": "檢查是否觸發狀態更新 SOP"
+          }
+        ]
+      }
+    ]
+  }
+}
