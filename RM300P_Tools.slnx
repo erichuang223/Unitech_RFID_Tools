@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RM300P.ConsoleTool/RM300P.ConsoleTool.csproj" />
+    <Project Path="src/RM300P.Core/RM300P.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RM300P.Core.Tests/RM300P.Core.Tests.csproj" />
+  </Folder>
+</Solution>

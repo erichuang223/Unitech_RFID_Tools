@@ -1,0 +1,13 @@
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\bin\Debug\net8.0\RM300P.Core.deps.json
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\bin\Debug\net8.0\RM300P.Core.dll
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\bin\Debug\net8.0\RM300P.Core.pdb
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.AssemblyInfoInputs.cache
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.AssemblyInfo.cs
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.csproj.CoreCompileInputs.cache
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.sourcelink.json
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.dll
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\refint\RM300P.Core.dll
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.pdb
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\ref\RM300P.Core.dll
+C:\Git\Unitech_RFID_Tools\src\RM300P.Core\obj\Debug\net8.0\RM300P.Core.csproj.AssemblyReference.cache
